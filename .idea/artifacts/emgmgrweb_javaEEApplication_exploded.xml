@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="emgmgrweb:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/emgmgrweb_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="emgmgrweb/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
